@@ -1,6 +1,6 @@
 # Projeto de Previsão do tempo
 # Image
-`![Demonstração](../img/ezgif.com-gif-maker.gif)`
+![Demonstração](../img/ezgif.com-gif-maker.gif)
 ## Objetivo:
 + Utlização de diversas APIs
 ## Linguagens utilizdas:
